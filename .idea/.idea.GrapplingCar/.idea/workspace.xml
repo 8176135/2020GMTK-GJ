@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97271786-6568-461a-965d-1f09442ec8a9" name="Default Changelist" comment="" />
+    <list default="true" id="97271786-6568-461a-965d-1f09442ec8a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ControlStuff.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ControlStuff.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/ControlStuff.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/ControlStuff.cs" />
+        <option value="$PROJECT_DIR$/Assets/FollowPlayer.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1eVtVv69I9vzDYCEhCh7XTFnduC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594418615419</updated>
-      <workItem from="1594418627565" duration="246000" />
+      <workItem from="1594418627565" duration="1694000" />
     </task>
     <servers />
   </component>
@@ -74,5 +86,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="300" y="740" key="SettingsEditor/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1594418811045" />
+    <state x="1312" y="751" width="1238" height="679" key="VCS.FileHistoryDialog" timestamp="1594419824787">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1312" y="751" width="1238" height="679" key="VCS.FileHistoryDialog/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1594419824787" />
   </component>
 </project>

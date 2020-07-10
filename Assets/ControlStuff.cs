@@ -16,10 +16,11 @@ public class ControlStuff : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
+
 	}
 
 	private void FixedUpdate()
 	{
-		rb.AddForce(Vector2.up * 10);
+		rb.AddForce(Vector2.up * 2);
 	}
 }
