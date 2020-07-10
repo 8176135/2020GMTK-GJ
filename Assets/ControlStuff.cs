@@ -16,11 +16,12 @@ public class ControlStuff : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
-
+		
 	}
 
 	private void FixedUpdate()
 	{
-		rb.AddForce(Vector2.up * 2);
+		rb.AddForce(rb.transform.up * 2);
+		rb.AddTorque(Input.GetAxis("Horizontal") * -2);
 	}
 }
