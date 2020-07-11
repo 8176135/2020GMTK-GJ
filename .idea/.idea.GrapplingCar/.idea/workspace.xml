@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97271786-6568-461a-965d-1f09442ec8a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GrapplingCar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ControlStuff.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ControlStuff.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/FollowPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/ControlStuff.cs" />
         <option value="$PROJECT_DIR$/Assets/RopeSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ControlStuff.cs" />
       </list>
     </option>
   </component>
@@ -67,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594418615419</updated>
-      <workItem from="1594418627565" duration="7724000" />
+      <workItem from="1594418627565" duration="16525000" />
     </task>
     <servers />
   </component>
@@ -153,9 +151,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="300" y="740" key="SettingsEditor/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1594422293756" />
-    <state x="1312" y="751" width="1238" height="679" key="VCS.FileHistoryDialog" timestamp="1594419824787">
+    <state x="1312" y="521" width="1238" height="448" key="VCS.FileHistoryDialog" timestamp="1594435912700">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1312" y="751" width="1238" height="679" key="VCS.FileHistoryDialog/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1594419824787" />
+    <state x="1312" y="521" width="1238" height="448" key="VCS.FileHistoryDialog/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1594435912700" />
   </component>
 </project>
